@@ -1,17 +1,20 @@
-## Hi there 👋
 
 <!--
 **su2-r/su2-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-- 🔭 I'm a clinical data scientist and also a medical doctor. 
+Hi there
 
-- 🌱 Passionate about the potential of data science to transform medicine.
+This repository highlights my technical skills in data science, particularly as applied to healthcare challenges.
 
-- 👯 I'm committed to bridging the gap between domain knowledge of medicine and machine learning. I'm constantly exploring new data science techniques to leverage my clinical expertise. 
+I am a clinical data scientist with a background in medicine and pharmaceutical trials. 
 
-- 📫Learn more about me at "https://"
+I'm passionate about applying my medical expertise to the field of data science. I'm continually learning and growing, aiming to bridge the gap between human empathy and machine intelligence. ❤️🤖
+
+While this repository focuses on my technical skills, I invite you to visit my website at http://__________ to learn more about my broader skillset and career journey. 
+
+Thank you!
 
 
 
