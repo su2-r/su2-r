@@ -12,7 +12,7 @@ I am a clinical data scientist with a background in medicine and pharmaceutical 
 
 I'm passionate about applying my medical expertise to the field of data science. I'm continually learning and growing, aiming to bridge the gap between human empathy and machine intelligence. ❤️🤖
 
-While this repository focuses on my technical skills, I invite you to visit my website at https://📎 to learn more about my broader skillset and career journey. 
+While this repository focuses on my technical skills, I invite you to visit my website at https://link?  to learn more about my broader skillset and career journey. 
 
 Thank you!
 
