@@ -15,7 +15,7 @@ I am seeking a challenging role at a forward-thinking pharmaceutical company whe
 
 * **Bridging the Gap Between Medicine and Data Science 🌉**   
 * **Robust Scientific Foundation 🔬**   
-* **Result-Driven 🚀**
+* **Result-Driven 🎯**
 
 **My skills.**
 
@@ -34,7 +34,9 @@ I am seeking a challenging role at a forward-thinking pharmaceutical company whe
 
 **This repository offers a glimpse into my technical skills, which I am continually refining. To explore more of my career journey and projects, visit my website **
 
+**This repository offers a glimpse into my technical skills, which I am continually refining🚀. To explore more of my career journey and projects, visit my website** at [http://link](http://link)
 
 Thank you!
+😄
 
 
