@@ -28,5 +28,5 @@ I am seeking a challenging role at a forward-thinking pharmaceutical company whe
   * Medical literature reviews related to CMS policy; Case studies in the development of value-based care policies and guidelines.  
   * Resolved complex conflicts of interest among four stakeholders in the care system network.
 
-**Explore My Projects and Career Journey at [Link](https://www.)**
+**Explore My Projects, Academic and Career Journey at [Link](https://www.)**
 
