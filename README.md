@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 
 I am a clinical data scientist with a strong foundation in medicine, pharmaceutical trials, and chemical engineering. 
 I have hands-on experience in clinical trial programming and RWD analysis using SAS, R, and Python, directly aligned with my clinical work. My comprehensive experience in the pharmaceutical trial lifecycle, from data generation to FDA submissions, ensures I deliver high-quality data analysis that meets regulatory standards.  
-I am passionate about harnessing the power of data science and AI to revolutionize healthcare. I enjoy conducting rigorous statistical analyses to assess drug efficacy and safety, particularly using RWD from cloud-based EHR systems like epic.  
+I am passionate about harnessing the power of data science and AI to revolutionize healthcare. I enjoy conducting rigorous statistical analyses to assess drug efficacy and safety, particularly using RWD from cloud-based EHR systems like Epic.  
 I am seeking a challenging role at a forward-thinking pharmaceutical company where I can contribute my skills to the development of innovative medicines.
 
 **What Defines Me.**
