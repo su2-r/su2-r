@@ -18,3 +18,11 @@
   * Experience of start-up and managing private practice.  
   * Medical literature reviews related to CMS policy; Case studies in the development of value-based care policies and guidelines.  
   * Resolved complex conflicts of interest among four stakeholders in the care system network.
+
+
+
+To learn more about my career journey, domain knowledge, and soft skills, including my writings, visit my website.
+
+Thanks for visiting!
+
+🙂
