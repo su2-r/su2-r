@@ -33,9 +33,8 @@ I am seeking a challenging role at a forward-thinking pharmaceutical company whe
   * Medical literature reviews related to CMS policy; Case studies in the development of value-based care policies and guidelines.  
   * Resolved complex conflicts of interest among four stakeholders in the care system network.
 
-**This repository offers a glimpse into my technical skills, which I am continually refining. To explore more of my career journey and projects, visit my website **
-
-**This repository offers a glimpse into my technical skills, which I am continually refining🚀. To explore more of my career journey and projects, visit my website** at https://su2-r.github.io/
+**This repository offers a glimpse into my technical skills, which I am continually refining🚀. 
+To explore more of my career journey, visit my website** at https://su2-r.github.io/
 
 Thank you!
 😄
