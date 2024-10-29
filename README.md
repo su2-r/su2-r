@@ -4,8 +4,6 @@
 
 Here are some ideas to get you started: -->
 
-**Introduction.**
-
 Hi there👋!
 
 I am a clinical data scientist with a strong foundation in medicine, pharmaceutical trials, and chemical engineering. 
