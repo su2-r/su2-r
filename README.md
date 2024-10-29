@@ -35,7 +35,7 @@ I am seeking a challenging role at a forward-thinking pharmaceutical company whe
 
 **This repository offers a glimpse into my technical skills, which I am continually refining. To explore more of my career journey and projects, visit my website **
 
-**This repository offers a glimpse into my technical skills, which I am continually refining🚀. To explore more of my career journey and projects, visit my website** at [http://link](http://link)
+**This repository offers a glimpse into my technical skills, which I am continually refining🚀. To explore more of my career journey and projects, visit my website** at [http://link](http://link)](https://su2-r.github.io/)
 
 Thank you!
 😄
