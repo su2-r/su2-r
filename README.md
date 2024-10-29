@@ -18,6 +18,7 @@ This repository offers a glimpse into my technical skills, which I am continuall
 To explore more of my career journey, visit my website.
 
 Thank you!
+
 😄
 
 
