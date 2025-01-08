@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 Hey there! 👋
 
-I am a Physician scientist, and also clinical data scientist with experience in medicine, pharmaceutical trials, healthcare administration, and chemical engineering. 
+I am a physician scientist, and also clinical data scientist with experience in medicine, pharmaceutical trials, healthcare administration, and chemical engineering. 
 
 I am passionate about applying data science and AI to advance healthcare. I have expertise in statistical modeling and clinical trial programming.
 
